@@ -1,11 +1,14 @@
 <h3>Tech We Used</h3>
-ReactJs
-Firebase Hosting
-Firebase Auth
-Firebase Storage
-React-Dom
-React Redux
-Stripe payment
+ul>
+  <li>ReactJS</li>
+  <li>Firebase Hosting</li>
+  <li>Firebase Auth</li>
+  <li>Firebase Storage</li>
+  <li>React-Dom</li>
+  <li>React Redux</li>
+  <li>Stripe Payment</li>
+  <li>Firebase Storage</li>
+</ul>
 
 
 <h3>Features</h3>
