@@ -1,6 +1,3 @@
-
-
-
 <h3>Tech We Used</h3>
 ReactJs
 Firebase Hosting
@@ -9,12 +6,15 @@ Firebase Storage
 React-Dom
 React Redux
 Stripe payment
-Features
+
+
+<h3>Features</h3>
 Login and Logout
 Add to cart
 Remove from cart
 Payment
 Neat and clean UI
+
 ## Available Scripts
 
 In the project directory, you can run:
