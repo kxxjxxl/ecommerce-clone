@@ -1,3 +1,7 @@
+<h1> Amazon React Clone (Ecommerce Clone) </h1>
+<p> I basically wanted to learn the nooks and crannies of front end and back end so i worked on this project to understand that </p>
+
+
 <h3>Tech I Used</h3>
 <ul>
   <li>ReactJS</li>
