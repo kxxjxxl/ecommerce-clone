@@ -1,4 +1,20 @@
 
+
+
+<h3>Tech We Used</h3>
+ReactJs
+Firebase Hosting
+Firebase Auth
+Firebase Storage
+React-Dom
+React Redux
+Stripe payment
+Features
+Login and Logout
+Add to cart
+Remove from cart
+Payment
+Neat and clean UI
 ## Available Scripts
 
 In the project directory, you can run:
