@@ -1,4 +1,4 @@
-<h3>Tech We Used</h3>
+<h3>Tech I Used</h3>
 <ul>
   <li>ReactJS</li>
   <li>Firebase Hosting</li>
@@ -12,11 +12,15 @@
 
 
 <h3>Features</h3>
-Login and Logout
-Add to cart
-Remove from cart
-Payment
-Neat and clean UI
+
+<ul>
+  <li>Login and Logout</li>
+  <li>Add to cart</li>
+  <li>Remove from cart</li>
+  <li>Firebase Storage</li>
+  <li>Real time payment/li>
+  <li>Clean UI</li>
+</ul> 
 
 ## Available Scripts
 
