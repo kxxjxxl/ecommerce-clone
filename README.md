@@ -1,5 +1,5 @@
 <h3>Tech We Used</h3>
-ul>
+<ul>
   <li>ReactJS</li>
   <li>Firebase Hosting</li>
   <li>Firebase Auth</li>
