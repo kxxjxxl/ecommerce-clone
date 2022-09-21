@@ -1,4 +1,4 @@
-<h1> my version an amazon because amazon is boring </h1>
+<h1> my version of amazon because amazon is basic </h1>
 <p> I wanted to learn the nooks and crannies of front end and back end so i worked on this project to understand that. This project is my starting point </p>
 
 
